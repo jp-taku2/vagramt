@@ -11,4 +11,4 @@ $ vagrant ssh master
 
 ## ID / PASS
 USER: vagrant  
-pass: vagrant
+PASSWORD: vagrant
